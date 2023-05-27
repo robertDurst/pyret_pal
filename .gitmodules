@@ -1,0 +1,6 @@
+[submodule "pyret-lang"]
+	path = pyret-lang
+	url = git@github.com:brownplt/pyret-lang.git
+[submodule "code.pyret.org"]
+	path = code.pyret.org
+	url = git@github.com:brownplt/code.pyret.org.git
